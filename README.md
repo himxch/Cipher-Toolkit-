@@ -37,8 +37,9 @@ Applying modular arithmetic in cryptography
 Building security-focused projects for portfolio
 
 ## How to Run
+[CipherToolkit.md](CipherToolkit.md)
 ```bash
-javac ClassicalCipherToolkit.java
+javac CipherToolkit.java
 java ClassicalCipherToolkit
 ```
 
